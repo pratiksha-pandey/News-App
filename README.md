@@ -15,5 +15,5 @@ Used the news API ‘newsapi.org’ to get the latest news
 ![2021-07-18 (5)](https://user-images.githubusercontent.com/65605807/126059063-b9731369-7c77-452a-a35d-facaeb8a086b.png)
 
 
-Technologies used: React Chat Engine, News API
+Technologies used: React.js, News API
 
